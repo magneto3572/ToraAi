@@ -35,9 +35,8 @@ For multi-turn chat sessions, users are encouraged to utilize the Ask Tora secti
 
 ToraAi currently incorporates two models for various tasks. We are excited to announce that we are planning to add a ChatGPT-based model for more dynamic and engaging conversations. Stay tuned for updates and more exciting features!
 
-## Dummy Images
+## Sample Snapshot
 
-[Include dummy images here to demonstrate ToraAi's capabilities.]
 
 <div align="center">
      <img src="/images/1.png"width="180px" height="350px"</img>
@@ -49,7 +48,8 @@ ToraAi currently incorporates two models for various tasks. We are excited to an
      <img src="/images/7.png"width="180px" height="350px"</img> 
 </div>
 
-## Dummy Videos
+## Smaple Video
+
 https://github.com/magneto3572/ToraAi/assets/25776029/002346b5-6ed3-4dd7-9f64-19f03112572e
 
 ## Contributing
