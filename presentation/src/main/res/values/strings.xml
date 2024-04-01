@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tora</string>
+    <string name="action_go">Go</string>
+    <string name="summarize_hint">Enter message to summarise</string>
+    <string name="conversational_hint">Ask anything to tora</string>
+    <string name="image_ai_hint">Select Image and write</string>
+    <string name="hey_there">Hey There!</string>
+    <string name="copied">Text Copied!</string>
+    <string name="how_can_i_help">How can i help you today ?</string>
+    <string name="ask_tora">Ask Tora</string>
+    <string name="summarised">Summarised</string>
+    <string name="image_ai">ImageAi</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="profile">Profile</string>
+    <string name="new_prompt_ideas">Create a new prompt \n and save it for future!</string>
+</resources>
